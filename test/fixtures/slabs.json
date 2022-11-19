@@ -1,0 +1,16 @@
+[
+  {
+    "pricePerUnit": 5,
+    "minConsumption": 1,
+    "maxConsumption": 100
+  },
+  {
+    "pricePerUnit": 10,
+    "minConsumption": 101,
+    "maxConsumption": 500
+  },
+  {
+    "pricePerUnit": 20,
+    "minConsumption": 501
+  }
+]

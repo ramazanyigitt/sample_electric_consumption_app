@@ -1,0 +1,22 @@
+[
+  {
+    "serviceNumber": "12345abcde",
+    "readings": [
+      {
+        "reading": 49,
+        "date": "2022-11-01 22:09",
+        "cost": 32
+      }
+    ]
+  },
+  {
+    "serviceNumber": "12346abcde",
+    "readings": [
+      {
+        "reading": 125,
+        "date": "2022-11-01 23:09",
+        "cost": 65
+      }
+    ]
+  }
+]
